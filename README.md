@@ -23,6 +23,5 @@ In a nutshell, I am a Python Developer and AWS enthusiast who builds personalize
 - Connect with me on <a href="https://www.linkedin.com/in/vignesh-sivanandha-rao/">LinkedIn</a> 💼
 
 <p  align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/?username=thevickypedia&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
+  <img src="https://github-readme-stats.vercel.app/api/?username=thevickypedia" alt="git stats"/></br>
 </p>

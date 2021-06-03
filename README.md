@@ -25,8 +25,8 @@ In a nutshell, I am a Python Developer and AWS enthusiast who builds personalize
 <!-- <img src="https://user-images.githubusercontent.com/38729644/88803242-cb449300-d171-11ea-9dbd-ba42e806fa8c.png" width="400" height="150" alt="git logo"> -->
 
 <a href="https://vigneshrao.com/projects">
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=thevickypedia&count_private=true&show_icons=true&theme=dark" alt="git stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=thevickypedia&count_private=true&show_icons=true&theme=dark" width="500" alt="git stats">
 </a>
 <a href="https://vigneshrao.com/projects">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevickypedia&theme=dark&count_private=true&langs_count=10&layout=compact&hide=CMake,SCSS,Less" alt="lang stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevickypedia&langs_count=10&hide=HTML,CSS,CMake,SCSS,Less&layout=compact&theme=dark" width="400" alt="lang stats">
 </a>
